@@ -1,0 +1,178 @@
+body{
+    margin: 0;
+    text-align:center;
+    font-family:"Barlow Semi Condensed", cursive;
+    font-size: 200%;
+  }
+
+h1{
+    font-size: 5.625rem;
+    margin-top: 50px auto 0 ;
+    font-family: 'Satisfy', cursive;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+.pro{
+  font-family: 'Comfortaa', cursive;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h2{
+  font-family: 'Comfortaa', cursive;
+  font-size: 2.2rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  font-size: 1.8rem;
+  font-family: 'Comfortaa', cursive;
+  color: #11999E;
+}
+
+p{
+  font-size: 1.4rem;
+  color: #40514E;
+  font-family: 'Comfortaa', cursive;
+}
+
+.top-container{
+    background-color: #bae8e8;
+    position: relative;
+    padding-top: 200px;
+}
+
+.pro1{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.j{
+    height: 50px;
+    width: 50px;
+}
+
+.code{
+    height: 70px;
+    width: 70px;
+    margin: 50px auto;
+}
+
+a{
+  font-family:"Cabin",sans-serif;
+    color: #11999E;
+}
+
+.profile{
+    margin-top: 50px;
+}
+
+.java{
+    width: 60%;
+    margin: auto auto 80px;
+    text-align: left;
+    /* margin-left: 2.75rem;
+    margin-bottom: 50px; */
+}
+
+.c{
+  width: 60%;
+  margin: auto auto 100px;
+  text-align: right;
+    /* margin-right: 2.75rem;
+    margin-bottom: 80px; */
+}
+
+.c1{
+    height: 50px;
+    width: 50px;
+}
+
+.code1{
+    height: 70px;
+    width: 70px;
+    margin: 30px auto;
+}
+
+.Web{
+  width: 60%;
+  margin: auto auto 100px;
+    text-align: left;
+    /* margin-left: 2.75rem; */
+}
+
+.web{
+    height: 50px;
+    width: 50px;
+}
+
+.android{
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-right: 30px;
+}
+
+.c2{
+  height: 170px;
+  width: 170px;
+  float: right;
+  margin-left: 30px;
+}
+
+.webfolder{
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin-right: 30px;
+}
+
+.Guitar{
+  width: 60%;
+  margin: auto auto 100px;
+  text-align: left;
+}
+
+.guitar{
+  height: 150px;
+  width: 150px;
+  float:left;
+  margin-right: 30px;
+}
+
+.Football{
+  width: 60%;
+  margin: auto auto 100px;
+  text-align: right;
+}
+
+.football{
+  height: 150px;
+  width: 150px;
+  float:right;
+  margin-left: 30px;
+}
+
+.contact-me{
+  padding-top:10px;
+  background-color: #66BFBF;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding-bottom: 30px;
+}
