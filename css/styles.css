@@ -134,6 +134,11 @@ a{
   width: 50px;
 }
 
+.bs{
+  height: 50px;    
+  width: 50px;
+}
+
 .android{
     height: 150px;
     width: 150px;
@@ -189,4 +194,18 @@ a{
 .bottom-container{
   background-color: #66BFBF;
   padding-bottom: 30px;
+}
+
+.btn{
+  color: #0d7377;
+}
+
+.footer-link{
+  color: #0d7377;
+}
+
+.foot{
+  font-size: 2rem;
+  font-family: 'Satisfy', cursive;;
+  color: #520801;
 }
