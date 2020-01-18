@@ -3,14 +3,17 @@ body{
     text-align:center;
     font-family:"Barlow Semi Condensed", cursive;
     font-size: 200%;
-    background-color: #212121;
+    background-color: #283149;
   }
+
+/* .intro {
+  margin: px;
+}   */
 
 h1{
     font-size: 5.625rem;
-    margin-top: 50px auto 0 ;
     font-family: 'Satisfy', cursive;
-    color: #66BFBF;
+    color: #c72c41;
     line-height: 2;
 }
 
@@ -18,40 +21,40 @@ h1{
   font-size: 3.5rem;
   margin-top: 50px auto 0 ;
   font-family: 'Comfortaa', cursive;
-  color: #66BFBF;
+  color: #dbedf3;
   line-height: 2;
 }
 
 .pro{
   font-family: 'Comfortaa', cursive;
   font-size: 2.5rem;
-  color: #66BFBF;
+  color: #dbedf3;
   font-weight: normal;
 }
 
 h2{
   font-family: 'Comfortaa', cursive;
   font-size: 2.2rem;
-  color: #66BFBF;
+  color: #dbedf3;
   font-weight: normal;
 }
 
 h3{
   font-size: 1.8rem;
   font-family: 'Comfortaa', cursive;
-  color: #11999E;
+  color: #dbedf3;
 }
 
 p{
   font-size: 1.4rem;
-  color: rgb(191, 255, 241);
+  color: #dbedf3;
   font-family: 'Comfortaa', cursive;
 }
 
 .top-container{
-    background-color: #0d7377;
+    background-color: #283149;
     position: relative;
-    padding-top: 200px;
+    padding-top: 100px;
 }
 
 .pro1{
@@ -84,10 +87,6 @@ p{
 a{
   font-family:"Cabin",sans-serif;
     color: #11999E;
-}
-
-.profile{
-    margin-top: 50px;
 }
 
 .java{
@@ -188,24 +187,24 @@ a{
 
 .contact-me{
   padding-top:10px;
-  background-color: #66BFBF;
+  background-color: #283149;
 }
 
 .bottom-container{
-  background-color: #66BFBF;
+  background-color: #283149;
   padding-bottom: 30px;
 }
 
 .btn{
-  color: #0d7377;
+  color: darkgoldenrod;
 }
 
 .footer-link{
-  color: #0d7377;
+  color: darkgoldenrod;
 }
 
 .foot{
   font-size: 2rem;
   font-family: 'Satisfy', cursive;;
-  color: #520801;
+  color: #dbedf3;
 }
