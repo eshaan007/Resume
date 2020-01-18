@@ -3,6 +3,7 @@ body{
     text-align:center;
     font-family:"Barlow Semi Condensed", cursive;
     font-size: 200%;
+    background-color: #212121;
   }
 
 h1{
@@ -11,6 +12,14 @@ h1{
     font-family: 'Satisfy', cursive;
     color: #66BFBF;
     line-height: 2;
+}
+
+.skill{
+  font-size: 3.5rem;
+  margin-top: 50px auto 0 ;
+  font-family: 'Comfortaa', cursive;
+  color: #66BFBF;
+  line-height: 2;
 }
 
 .pro{
@@ -35,12 +44,12 @@ h3{
 
 p{
   font-size: 1.4rem;
-  color: #40514E;
+  color: rgb(191, 255, 241);
   font-family: 'Comfortaa', cursive;
 }
 
 .top-container{
-    background-color: #bae8e8;
+    background-color: #0d7377;
     position: relative;
     padding-top: 200px;
 }
@@ -118,6 +127,11 @@ a{
 .web{
     height: 50px;
     width: 50px;
+}
+
+.react{
+  height: 50px;
+  width: 50px;
 }
 
 .android{
