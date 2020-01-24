@@ -3,7 +3,7 @@ body{
     text-align:center;
     font-family:"Barlow Semi Condensed", cursive;
     font-size: 200%;
-    background-color: #283149;
+    background-color: #1b262c;
   }
 
 /* .intro {
@@ -52,7 +52,7 @@ p{
 }
 
 .top-container{
-    background-color: #283149;
+    background-color: #1b262c;
     position: relative;
     padding-top: 100px;
 }
@@ -187,11 +187,11 @@ a{
 
 .contact-me{
   padding-top:10px;
-  background-color: #283149;
+  background-color: #1b262c;
 }
 
 .bottom-container{
-  background-color: #283149;
+  background-color: #1b262c;
   padding-bottom: 30px;
 }
 
