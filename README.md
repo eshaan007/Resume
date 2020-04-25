@@ -2,4 +2,4 @@
 
 Click Below to see my true self !!
 
-eshaan007.surge.sh
+https://eshaan007.github.io/Resume/
